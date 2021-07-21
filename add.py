@@ -20,3 +20,6 @@ def binsearch(a,left,right,k):
             return None
         
 print(binsearch(a,0,len(a),3))
+
+#adding a new line of code 
+print("new line of code")
