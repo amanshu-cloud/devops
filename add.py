@@ -23,3 +23,8 @@ print(binsearch(a,0,len(a),3))
 
 #adding a new line of code 
 print("new line of code")
+
+#the above line was wrong
+def new(x):
+    return x*2
+    
